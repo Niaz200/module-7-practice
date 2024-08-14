@@ -1,0 +1,13 @@
+
+লাইভ ক্লাস
+
+৬ নভে, রাত ১০:০০
+
+Conceptual Class 1 | MVC Architecture | Request  Lifecycle  | Introduction to Laravel Project's Structure  |
+ Mastering in Laravel Routes
+
+নোট: 
+
+MVC Architecture | Request Lifecycle | Introduction to Laravel Project's Structure | Mastering in Laravel Routes | 
+Postman Simulation of API Routes | Introduction to Artisan Commands | Introduction to Laravel Controller | 
+Introduction to Laravel View | Introduction to Laravel Model

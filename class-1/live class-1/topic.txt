@@ -1,0 +1,8 @@
+৫ নভে, রাত ৯:০০
+
+Mastering Laravel: Structure, Artisan, Routing, and Best Practices
+
+টপিক:
+Middleware, Controller, Request, Response Best Practices | JSON Structure & Best Practices  |
+ Controller Flow in Details | Deep inside Routing Middleware, | Server Side Client Side  | Request-Response Model |
+ Start Using Postman Server-Side Simulation  | Laravel Routing Structure  | Artisan Commands, | Laravel Structure
